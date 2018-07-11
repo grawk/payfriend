@@ -1,5 +1,5 @@
 {>"layouts/master" /}
-{<title}Nemo Training App{/title}
+{<title}Nemo Training App.. CC {cctreatment} {/title}
 {<body}
 <h1>PayFriend</h1>
 <div id="result"></div>
