@@ -1,0 +1,4 @@
+payfriend
+===========
+
+PayFriend Payment Methods

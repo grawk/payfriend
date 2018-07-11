@@ -1,0 +1,14 @@
+{
+  "generator-kraken": {
+    "taskModule": "grunt",
+    "lintModule": "eslint",
+    "description": "PayFriend Payment Methods",
+    "author": "@grawk",
+    "templateModule": "makara",
+    "i18n": false,
+    "componentPackager": false,
+    "cssModule": "less",
+    "jsModule": "requirejs",
+    "useJson": null
+  }
+}
